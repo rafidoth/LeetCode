@@ -57,6 +57,7 @@ int main(){
       }
     }
   }
+
   cout << sum << endl;
   for(auto p : mst){
     cout << p.first << " " << p.second << endl;
